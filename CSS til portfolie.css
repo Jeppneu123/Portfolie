@@ -1,0 +1,280 @@
+
+* {
+    margin:0px;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+
+    font-size: 20px;
+
+}
+
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper img {
+    float: left;
+    height: 100px;
+    box-sizing: border-box;
+
+}
+
+.wrapper {
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+header {
+    position: relative;
+    top: 0px;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    padding: 5px 100px 20px 10px;
+
+
+
+}
+
+.header {
+    background-image: url("https://t3.ftcdn.net/jpg/03/76/67/84/360_F_376678424_89dRKdMvobcFH7amx4cmGvQAWD7Lf8be.jpg");
+    height: 180px;
+    width: 1440px;
+
+}
+
+a {
+    text-decoration:none;
+    border: none;
+}
+
+li {
+    float: right;
+    margin: 45px;
+}
+
+.lister {
+    font-weight:bold;
+}
+
+.menu-item {
+    display: inline;
+    list-style-type: none;
+    color: #66ff6b;
+}
+
+header .wrapper nav div.menu ul li .kontakt {
+    padding: 12px 12px;
+    border: none;
+    border-radius: 40px;
+    color: #79aaff;
+    list-style-type: none;
+    background: url("https://cdn.pixabay.com/photo/2015/11/19/08/47/banner-1050615__340.jpg");
+}
+
+.about {
+    margin-top: 130px;
+}
+ul {
+    list-style-type: none;
+}
+
+.menu-item {
+    margin: 45px;
+}
+#E-mail {
+    text-decoration: -webkit-link;
+}
+
+.logo {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.hvid-stribe {
+    margin:180px;
+    padding: 0px ;
+}
+
+main section.about {
+    position: relative;
+
+}
+
+main section.about .wrapper h2 {
+    margin-bottom: 35px;
+    font-size: 260%;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+   display: block;
+   margin-block-start: 1em;
+   margin-block-end: 2em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+}
+
+main section.about .wrapper div h3 {
+    margin-bottom: 30px;
+    font-size: 110%;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+
+#billede2 {
+    height: 600px;
+    width: 600px;
+    float: right;
+    margin-left: 75px;
+    margin-right: 0px;
+    
+}
+#p-tekst {
+    float: left;
+    margin-left: 60px;
+    margin-right: 300px;
+    display: flex;
+}
+
+
+#historie {
+    margin-top: 60px;
+    margin-right: 80px;
+    margin-left: 60px;
+}
+
+#overskrift1 {
+
+}
+
+#overskrift2 {
+    text-align: center;
+}
+
+#Mortem {
+
+}
+
+#linje {
+    margin-top: 4%;
+    border:25px solid blue;
+    border-radius: 5px;
+}
+
+main {
+    color: black;
+}
+
+.hvorformig {
+    color: black;
+}
+
+.menu-item {
+    color: #66ff6b;
+}
+
+.hvad1 {
+    float: left;
+    margin-left: 0px;
+    margin-right: 300px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.hvad2 {
+    float: left;
+    margin-left: 0px;
+    margin-right: 300px;
+    display: flex;
+    font-size: 176%;
+}
+
+.funfacts {
+    float: left;
+    margin-left: 0px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.tekstkomp {
+    float: left;
+    margin-left: 0px;
+    margin-right: 700px;
+    display: flex;
+    border: 3px solid #66ff6b;
+    text-align: center;
+    padding: 20px;
+    box-shadow: inset 0 12px 12px -12px rgb(0 0 0 / 50%);
+}
+
+.tekstkomp2 {
+    float: left;
+    margin-left: 0px;
+    margin-right: 700px;
+    display: flex;
+    border: 3px solid #79aaff;
+    text-align: center;
+    padding: 20px;
+    box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+}
+
+.tekstkomp3 {
+    float: left;
+    margin-left: 0px;
+    margin-right: 700px;
+    display: flex;
+    border: 3px solid #66ff6b;
+    text-align: center;
+    padding: 20px;
+    box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+}
+
+.Kompetencer {
+    text-decoration: none;
+    margin: 0px;
+}
+
+#overskrift2 {
+    font-size: 240%;
+}
+
+#overskrift1 {
+}
+
+hr {
+    height: 25px;
+    border:20px;
+    box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+
+}
+
+#linje2 {
+    height: 25px;
+    border: 20px;
+    box-shadow: inset 0 12px 12px -12px rgb(0 0 0 / 50%);
+}
+
+#første-del {
+    background-image: linear-gradient(green,blue);
+}
+
+.godtil {
+    margin-bottom: 20px;
+}
