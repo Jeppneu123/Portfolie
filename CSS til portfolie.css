@@ -1,4 +1,3 @@
-
 * {
     margin:0px;
     font-family: 'poppins', sans-serif;
@@ -122,11 +121,11 @@ main section.about .wrapper h2 {
 }
 
 h2 {
-   display: block;
-   margin-block-start: 1em;
-   margin-block-end: 2em;
-   margin-inline-start: 0px;
-   margin-inline-end: 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 main section.about .wrapper div h3 {
@@ -143,7 +142,7 @@ main section.about .wrapper div h3 {
     float: right;
     margin-left: 75px;
     margin-right: 0px;
-    
+
 }
 #p-tekst {
     float: left;
@@ -213,7 +212,6 @@ main {
     display: flex;
 }
 
-asjjads
 .tekstkomp {
     float: left;
     margin-left: 0px;
@@ -279,3 +277,9 @@ hr {
 .godtil {
     margin-bottom: 20px;
 }
+
+
+
+
+
+
