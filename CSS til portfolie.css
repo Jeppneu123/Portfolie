@@ -132,9 +132,7 @@ hr {
     justify-content: space-around;
     flex-wrap: wrap;
     box-sizing: border-box;
-    margin: 50px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin: 0;
 }
 
 .box {
@@ -171,6 +169,10 @@ hr {
 #overskrift2 {
     font-size: 250%;
     text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN46WBziNYTG0yq-tVZezGwh4kCyvVi_yu4g&usqp=CAU");
+    color: white;
+    padding: 40px;
+    margin: 0px
 }
 
 hr {
@@ -191,13 +193,104 @@ section {
 #sidste-hr {
     height: 40px;
     border: 40px;
-    box-shadow: inset 10px 20px 12px -12px rgba(80, 130, 20, 0.5);
+    box-shadow: inset 1px 15px 10px -2px rgba(80, 240, 150, 0.5);
 }
 
+#andensidstehr {
+    height: 0px;
+}
 
 #kontakt-info {
     text-align: center;
     text-decoration: black;
     text-decoration-style: wavy;
     margin: 30px;
+    font-size: 94%;
+    line-height: 1.4;
+    font-style: normal;
+}
+
+main section.contact {
+    color: white;
+    text-align: center;
+}
+
+#herkandufindemig {
+    margin-bottom: 48px;
+    font-size: 100%;
+}
+
+main section.contact div.wrapper adress {
+    text-align: left;
+}
+
+main section.contact div.wrapper adress {
+    display: flex;
+    justify-content: center;
+    font-size: 94%;
+    line-height: 1.4;
+    font-style: normal;
+}
+
+address {
+    display: block;
+    font-style: italic;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 100%;
+}
+
+.email {
+
+}
+
+.lodrettehr {
+    margin: 0 24px;
+    width: 1px;
+    height: auto;
+    background-color: black;
+    height: 1px;
+    border: none;
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+
+}
+
+hr {
+    border: none;
+}
+
+.kontakt1 {
+    font-size: 94%;
+    line-height: 1.4;
+    font-style: normal;
+    text-align: left;
+}
+
+#CV22 {
+    margin: 150px;
+    text-align: center;
+}
+
+.email {
+    display: block;
+    text-decoration: none;
+    border: none;
+    color: inherit;
+    outline: none;
+    background: none;
+}
+
+#header.header {
+    position: sticky;
+    opacity: 80%;
 }
