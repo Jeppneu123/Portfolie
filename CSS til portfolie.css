@@ -81,6 +81,7 @@ li {
     position: absolute;
     right: 10px;
     font-size: 70%;
+
 }
 
 
@@ -92,18 +93,17 @@ main section.about .wrapper h2 {
 }
 
 #billede2 {
-    height: 600px;
+    height: 638px;
     width: 600px;
     position: absolute;
     float: right;
-    margin-left: 600px;
-
+    margin-left: 690px;
 }
 
 .p-tekst {
     float: left;
     margin-left: 60px;
-    margin-right: 880px;
+    margin-right: 800px;
     margin-bottom: 40px;
     display: flex;
 }
@@ -112,7 +112,7 @@ main section.about .wrapper h2 {
     margin-top: 30px;
     margin-left: 60px;
     margin-bottom: 20px;
-    margin-right: 750px;
+    margin-right: 550px;
     font-size: 130%;
 }
 
